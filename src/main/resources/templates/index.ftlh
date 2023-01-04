@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="/css/style.x47307.css"/>
 </head>
 <body>
-<h1>Organizer</h1>
+<h1>Organizer(TEST CI/CD)</h1>
 <h3>Add task to list</h3>
 <form action="/add" method="post">
     <table border="1px">
