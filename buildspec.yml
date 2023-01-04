@@ -1,7 +1,7 @@
 
 # This file controls the AWS CodeBuild
 
-version: 0.3
+version: 2
 phases:
   pre_build:
     commands:
